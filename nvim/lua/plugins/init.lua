@@ -1,0 +1,12 @@
+require('plugins.packer')
+require('plugins.nvim-tree')
+require('plugins.treesitter')
+require('plugins.bufferline')
+require('plugins.indent-blankline')
+require('plugins.cmp')
+require('plugins.autopairs')
+require('plugins.telescope')
+require('plugins.palenight')
+require('plugins.lsp')
+require('plugins.lsp_lines')
+
